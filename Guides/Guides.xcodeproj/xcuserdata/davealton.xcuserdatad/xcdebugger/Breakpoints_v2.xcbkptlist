@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "660B1617-9D89-44E4-94F1-4454CEBA8CC0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B62481E-05DD-45EE-B2CF-AD6C6DA1F909"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Guides/ViewModels/GuidesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchEvents()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8B62481E-05DD-45EE-B2CF-AD6C6DA1F909 - 4fb6b488f5c74b4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Guides.GuidesViewModel.fetchEvents() async -&gt; ()"
+                  moduleName = "Guides"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davealton/Documents/Personal/Code/Guides/Guides/Guides/ViewModels/GuidesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "753">
+               </Location>
+               <Location
+                  uuid = "8B62481E-05DD-45EE-B2CF-AD6C6DA1F909 - 8e1f0c9093561748"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Guides.GuidesViewModel.fetchEvents() async -&gt; ()"
+                  moduleName = "Guides"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davealton/Documents/Personal/Code/Guides/Guides/Guides/ViewModels/GuidesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "733">
+               </Location>
+               <Location
+                  uuid = "8B62481E-05DD-45EE-B2CF-AD6C6DA1F909 - ae33d0af4fa9494b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Guides.GuidesViewModel.fetchEvents() async -&gt; ()"
+                  moduleName = "Guides"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davealton/Documents/Personal/Code/Guides/Guides/Guides/ViewModels/GuidesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "598">
+               </Location>
+               <Location
+                  uuid = "8B62481E-05DD-45EE-B2CF-AD6C6DA1F909 - 8e1f0c9093561748"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Guides.GuidesViewModel.fetchEvents() async -&gt; ()"
+                  moduleName = "Guides"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davealton/Documents/Personal/Code/Guides/Guides/Guides/ViewModels/GuidesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "823">
+               </Location>
+               <Location
+                  uuid = "8B62481E-05DD-45EE-B2CF-AD6C6DA1F909 - ee9ba8b7153815b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) suspend resume partial function for Guides.GuidesViewModel.fetchEvents() async -&gt; ()"
+                  moduleName = "Guides"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davealton/Documents/Personal/Code/Guides/Guides/Guides/ViewModels/GuidesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
